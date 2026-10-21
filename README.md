@@ -180,7 +180,3 @@ http://<EC2_PUBLIC_IP>:8080
 - LinkedIn: https://www.linkedin.com/in/mohitkumar162/
 
 ---
-
-## License
-
-This project is licensed under the **MIT License**.
